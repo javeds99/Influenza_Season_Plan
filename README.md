@@ -21,6 +21,9 @@ The goal of this project was to help a medical staffing agency that provides tem
  <ins>**Most Vulnerable Populations:**<ins/>
    
  ![Screenshot (151)](https://user-images.githubusercontent.com/93872864/142259399-5ec15db6-833e-40f6-8c1d-0c4f5d0cb38b.png)
+   
+  ![image](https://user-images.githubusercontent.com/93872864/142259562-2937af78-827d-48a0-ba84-5e7222ac47cb.png)
+
 
    
    

@@ -17,6 +17,10 @@ The goal of this project was to help a medical staffing agency that provides tem
  <ins>**Seasonality of Influenza:**<ins/>
    
    ![Screenshot (149)](https://user-images.githubusercontent.com/93872864/142257435-478953eb-1006-4700-bd35-7875e7bcbf9d.png)
+   
+ <ins>**Most Vulnerable Populations:**<ins/>
+   
+   
 
    
 

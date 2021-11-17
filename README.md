@@ -13,6 +13,7 @@ The goal of this project was to help a medical staffing agency that provides tem
   There is no data for the number of staff each hospital has/recieves. This interferes with the analysis because if this data were given, a more concise plan could be formed.
 
  
+  
  <ins>**Seasonality of Influenza:**<ins/>
    
 

@@ -28,6 +28,16 @@ The goal of this project was to help a medical staffing agency that provides tem
    
  <ins>**Relationship Between State Population Size and Influenza Deaths:**<ins/>
    
+   ![Screenshot (130)](https://user-images.githubusercontent.com/93872864/142479903-154f584b-65b6-4e8c-b676-2295ca1d48eb.png)
+
+   
+   - The R2 score of 0.92 as well as the scatterplot show a strong correlation between population size and Influenza death rate. 
+   
+   
+   <ins>**Summary/Plan:**<ins/>
+     
+     
+   
    
    
  

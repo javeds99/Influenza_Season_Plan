@@ -24,7 +24,7 @@ The goal of this project was to help a medical staffing agency that provides tem
    
   ![image](https://user-images.githubusercontent.com/93872864/142259562-2937af78-827d-48a0-ba84-5e7222ac47cb.png)
 
- - Then most vulnerable populations are elderly people, specifically those 85 and older. Tableau shows that states like New York and California not only lead the nation in total deaths, but deaths of those elderly individuals. This could mean that states with larger populations experience more Influenza related deaths. 
+ - Then **most vulnerable populations** are elderly people, specifically those 85 and older. Tableau shows that states like New York and California not only lead the nation in total deaths, but deaths of those elderly individuals. This could mean that states with larger populations experience more Influenza related deaths. 
    
  
 

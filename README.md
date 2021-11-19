@@ -38,7 +38,7 @@ The goal of this project was to help a medical staffing agency that provides tem
     
  Influenza occurs seasonally, starting in October and ending in March. States with larger populations experience a higher death count than those with smaller populations. The most vulnerable age groups are the elderly, specifically those 85 and older. States like Texas, New York and California lead the nation in total Influenza deaths. 
  
-  <ins>Plan:<ins/>
+  **<ins>Plan:<ins/>**
      
    **The agency should allocate more staff to more populated states, especially states that record high death rates for the elderly (e.g. Texas, California). The agency should also be mindful to increase their staff during the Influenza season (October - March).**
      

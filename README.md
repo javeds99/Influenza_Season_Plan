@@ -42,6 +42,8 @@ The goal of this project was to help a medical staffing agency that provides tem
      
    **The agency should allocate more staff to more populated states, especially states that record high death rates for the elderly (e.g. Texas, California). The agency should also be mindful to increase their staff during the Influenza season (October - March).**
      
+  Link to Tableau Dashboard: https://public.tableau.com/app/profile/javed7535/viz/2_9charts/Story?publish=yes
+     
      
    
    

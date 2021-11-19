@@ -36,7 +36,7 @@ The goal of this project was to help a medical staffing agency that provides tem
    
    <ins>**Summary/Plan:**<ins/>
     
- Influenza occurs seasonally, starting in   and ending in
+ Influenza occurs seasonally, starting in October and ending in March.
      
      
    
